@@ -16,6 +16,7 @@ The Sorting Application is a graphical user interface (GUI) program that allows 
 
 ## Installation
 
+make script to exe file = pyinstaller Sorting.py --onefile --noconsole --icon=Sorting.ico
 No installation is required to use the Sorting Application. Simply run the executable file on your operating system.
 
 ## Usage
